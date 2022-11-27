@@ -1,2 +1,4 @@
 ### Execução do quiz:
-`python main.py`
+```
+python main.py
+```
