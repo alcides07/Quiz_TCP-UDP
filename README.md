@@ -1,1 +1,2 @@
-# Quiz_Cliente_Servidor
+### Execução do quiz:
+`python main.py`
